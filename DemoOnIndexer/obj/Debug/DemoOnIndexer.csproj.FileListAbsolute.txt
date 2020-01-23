@@ -1,0 +1,6 @@
+E:\Pranavi\11th Jan\DemoOnIndexer\bin\Debug\DemoOnIndexer.exe.config
+E:\Pranavi\11th Jan\DemoOnIndexer\bin\Debug\DemoOnIndexer.exe
+E:\Pranavi\11th Jan\DemoOnIndexer\bin\Debug\DemoOnIndexer.pdb
+E:\Pranavi\11th Jan\DemoOnIndexer\obj\Debug\DemoOnIndexer.csprojAssemblyReference.cache
+E:\Pranavi\11th Jan\DemoOnIndexer\obj\Debug\DemoOnIndexer.exe
+E:\Pranavi\11th Jan\DemoOnIndexer\obj\Debug\DemoOnIndexer.pdb

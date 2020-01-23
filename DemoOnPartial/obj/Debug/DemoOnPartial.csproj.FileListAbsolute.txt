@@ -1,0 +1,6 @@
+E:\Pranavi\11th Jan\DemoOnPartial\bin\Debug\DemoOnPartial.exe.config
+E:\Pranavi\11th Jan\DemoOnPartial\bin\Debug\DemoOnPartial.exe
+E:\Pranavi\11th Jan\DemoOnPartial\bin\Debug\DemoOnPartial.pdb
+E:\Pranavi\11th Jan\DemoOnPartial\obj\Debug\DemoOnPartial.csprojAssemblyReference.cache
+E:\Pranavi\11th Jan\DemoOnPartial\obj\Debug\DemoOnPartial.exe
+E:\Pranavi\11th Jan\DemoOnPartial\obj\Debug\DemoOnPartial.pdb

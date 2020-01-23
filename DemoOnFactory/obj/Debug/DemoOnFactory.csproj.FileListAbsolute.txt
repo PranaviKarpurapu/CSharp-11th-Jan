@@ -1,0 +1,6 @@
+E:\Pranavi\11th Jan\DemoOnFactory\obj\Debug\DemoOnFactory.csprojAssemblyReference.cache
+E:\Pranavi\11th Jan\DemoOnFactory\bin\Debug\DemoOnFactory.exe.config
+E:\Pranavi\11th Jan\DemoOnFactory\bin\Debug\DemoOnFactory.exe
+E:\Pranavi\11th Jan\DemoOnFactory\bin\Debug\DemoOnFactory.pdb
+E:\Pranavi\11th Jan\DemoOnFactory\obj\Debug\DemoOnFactory.exe
+E:\Pranavi\11th Jan\DemoOnFactory\obj\Debug\DemoOnFactory.pdb

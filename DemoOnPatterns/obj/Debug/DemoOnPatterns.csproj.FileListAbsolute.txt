@@ -1,0 +1,6 @@
+E:\Pranavi\11th Jan\DemoOnPatterns\bin\Debug\DemoOnPatterns.exe.config
+E:\Pranavi\11th Jan\DemoOnPatterns\bin\Debug\DemoOnPatterns.exe
+E:\Pranavi\11th Jan\DemoOnPatterns\bin\Debug\DemoOnPatterns.pdb
+E:\Pranavi\11th Jan\DemoOnPatterns\obj\Debug\DemoOnPatterns.csprojAssemblyReference.cache
+E:\Pranavi\11th Jan\DemoOnPatterns\obj\Debug\DemoOnPatterns.exe
+E:\Pranavi\11th Jan\DemoOnPatterns\obj\Debug\DemoOnPatterns.pdb
